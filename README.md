@@ -1,2 +1,3 @@
 # code-meal
-My code
+MySQL command 
+you just need to copy in
