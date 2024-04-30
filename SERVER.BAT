@@ -1,5 +1,2 @@
-cd own folder
-git pull
-python dbutils.py Autoupgrade
-python dbutils.py create
+cd C:\test-web
 python index.py
